@@ -1,0 +1,11 @@
+ALGORITMO BoaNoite
+
+VAR
+Nome : String
+
+INÍCIO
+ Escreva nome
+ nome
+ Escreva nome 
+ Escreva "Boa noite!"
+FIM

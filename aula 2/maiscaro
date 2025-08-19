@@ -1,0 +1,22 @@
+ALGORITMO EncontrarItemMaisCaro
+
+VAR
+listaDePrecos: [15.50, 45.00, 3.25, 60.10, 12.80]
+precoMaisAlto: NUMÉRICO
+
+INÍCIO
+precoMaisAlto = listaDePrecos[0] // Começa com o preço do
+
+primeiro item.
+
+PARA CADA preco NA listaDePrecos FAÇA
+
+SE preco > precoMaisAlto ENTÃO
+precoMaisAlto = preco
+FIM_SE
+
+FIM_PARA
+
+EXIBIR "O item mais caro custou R$" + precoMaisAlto
+
+FIM
