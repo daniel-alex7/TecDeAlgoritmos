@@ -1,0 +1,26 @@
+ALGORITMO PrepararCha
+
+INÍCIO
+
+Pegar o bule.
+Encher o bule com água.
+Colocar o bule no fogão.
+Ligar o fogo.
+
+ENQUANTO a água não estiver fervendo FAÇA
+ESPERAR.
+
+FIM_ENQUANTO
+
+Desligar o fogo.
+Pegar uma xícara.
+Colocar o saquinho de chá na xícara.
+Despejar a água quente do bule na xícara.
+
+ESPERAR 3 minutos.
+
+Retirar o sache de chá.
+EXIBIR "Seu chá está pronto para beber!"
+
+FIM
+  

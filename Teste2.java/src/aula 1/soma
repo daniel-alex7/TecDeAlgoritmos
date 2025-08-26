@@ -1,0 +1,6 @@
+inicio
+  nota 1 
+  nota 2
+  soma = (nota 1 + nota 2)
+  Escreva(soma)
+fim

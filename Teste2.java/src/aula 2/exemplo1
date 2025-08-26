@@ -1,0 +1,9 @@
+ALGORITMO exemplo1
+
+nome : String
+
+INÍCIO
+
+Escreva nome
+nome
+Escreva "Você digitou: " + nome
