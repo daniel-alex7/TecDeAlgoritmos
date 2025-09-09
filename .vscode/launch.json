@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "umprograma",
+            "request": "launch",
+            "mainClass": "umprograma",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "idade",
+            "request": "launch",
+            "mainClass": "idade",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
             "name": "ex02",
             "request": "launch",
             "mainClass": "ex02",
