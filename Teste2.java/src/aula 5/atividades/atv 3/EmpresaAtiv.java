@@ -14,7 +14,7 @@
 // e) Crie uma estrutura de decisão que imprima a mensagem “Estourou o orçamento!” se o valor de gastos trimestre superar 50000.
 
 
-public class empresa {
+public class EmpresaAtiv {
     public static void main(String[] args) {
         int janeiro = 15000;
         int fevereiro = 23000;

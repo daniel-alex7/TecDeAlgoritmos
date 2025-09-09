@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmpresaAtiv",
+            "request": "launch",
+            "mainClass": "EmpresaAtiv",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "empresa",
+            "request": "launch",
+            "mainClass": "empresa",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "idade2",
+            "request": "launch",
+            "mainClass": "idade2",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "projeto",
+            "request": "launch",
+            "mainClass": "projeto",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
             "name": "umprograma",
             "request": "launch",
             "mainClass": "umprograma",
