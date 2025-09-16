@@ -1,3 +1,5 @@
+package Condicao;
+// Esse fez em aula
 public class SwitchExample {
     public static void main(String[] args) {
         int x;

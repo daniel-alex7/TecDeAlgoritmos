@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProjetoScan",
+            "request": "launch",
+            "mainClass": "Scanner.ProjetoScan",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Somando",
+            "request": "launch",
+            "mainClass": "Strings.Somando",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
             "name": "DoWhileExample",
             "request": "launch",
             "mainClass": "DoWhileExample",
