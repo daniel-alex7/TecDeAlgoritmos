@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "agencia",
+            "request": "launch",
+            "mainClass": "Atividade.agencia",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "adivinhe2",
+            "request": "launch",
+            "mainClass": "Atividade.adivinhe2",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "adivinhacao",
+            "request": "launch",
+            "mainClass": "Atividade.adivinhacao",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "atividade1",
+            "request": "launch",
+            "mainClass": "Atividade.atividade1",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
             "name": "ProjetoScan",
             "request": "launch",
             "mainClass": "Scanner.ProjetoScan",
