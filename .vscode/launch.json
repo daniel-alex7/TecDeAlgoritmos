@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Automovel",
+            "request": "launch",
+            "mainClass": "Automovel",
+            "projectName": "TecDeAlgoritmos_699debba"
+        },
+        {
+            "type": "java",
             "name": "agencia",
             "request": "launch",
             "mainClass": "Atividade.agencia",
