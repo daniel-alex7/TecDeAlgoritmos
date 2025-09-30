@@ -17,25 +17,19 @@ public abstract class agencia {
         double saldo = 100;
     
             switch (servico) {
-            case "S":
-                System.out.print("Seu saldo é " + saldo);
-                break; 
+            case "S" -> System.out.print("Seu saldo é " + saldo); 
                 
             
-            case "D":
+            case "D" -> {
                 System.out.print("Digite o valor do deposito: ");
                 double deposito = scan.nextDouble();
 
                 double saldo_atual = saldo + deposito;
                 System.out.println("Saldo atual de sua conta: " + saldo_atual);
-                break;
-            case "V":
-                System.out.print("Seu saldo é " + saldo);
-                break;
+            }
+            case "V" -> System.out.print("Seu saldo é " + saldo);
 
-            default:
-                System.out.println("Serviço não identificado");
-                break;
+            default -> System.out.println("Serviço não identificado");
             }
         
         

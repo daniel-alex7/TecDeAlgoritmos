@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cliente",
+            "request": "launch",
+            "mainClass": "Cliente",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
             "name": "Automovel",
             "request": "launch",
             "mainClass": "Automovel",
