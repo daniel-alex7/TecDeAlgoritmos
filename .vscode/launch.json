@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "aula9.Matriz",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor1",
+            "request": "launch",
+            "mainClass": "aula9.Vetor1",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor01",
+            "request": "launch",
+            "mainClass": "aula9.Vetor01",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor",
+            "request": "launch",
+            "mainClass": "aula9.Vetor",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor",
+            "request": "launch",
+            "mainClass": "Vetor",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "VetorEMatriz",
+            "request": "launch",
+            "mainClass": "VetorEMatriz",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
             "name": "Automovel",
             "request": "launch",
             "mainClass": "Automovel",
