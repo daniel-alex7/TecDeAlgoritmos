@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pesquisa",
+            "request": "launch",
+            "mainClass": "aula9.Pesquisa",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
             "name": "Matriz",
             "request": "launch",
             "mainClass": "aula9.Matriz",
