@@ -22,6 +22,4 @@ public static void main(String[] args) {
                 System.out.println("Valor encontrado na posição: [" + resultado [0] + "][" + resultado [1] + "]");
          }else{
                 System.out.println("Valor não encontrado.");
-}
-}
-}
+}}}
