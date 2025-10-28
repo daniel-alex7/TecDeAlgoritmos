@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "atv5",
+            "request": "launch",
+            "mainClass": "aula10.atv5",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv4",
+            "request": "launch",
+            "mainClass": "aula10.atv4",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv3",
+            "request": "launch",
+            "mainClass": "aula10.atv3",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv2",
+            "request": "launch",
+            "mainClass": "aula10.atv2",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv1",
+            "request": "launch",
+            "mainClass": "aula10.atv1",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
             "name": "Pesquisa01",
             "request": "launch",
             "mainClass": "aula9.Pesquisa01",
