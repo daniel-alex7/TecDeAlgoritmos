@@ -1,0 +1,6 @@
+inicio
+  nota 1 
+  nota 2
+  media = (nota 1 + nota 2)/2
+  Escreva(media)
+fim

@@ -1,0 +1,253 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "atv5",
+            "request": "launch",
+            "mainClass": "aula10.atv5",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv4",
+            "request": "launch",
+            "mainClass": "aula10.atv4",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv3",
+            "request": "launch",
+            "mainClass": "aula10.atv3",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv2",
+            "request": "launch",
+            "mainClass": "aula10.atv2",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "atv1",
+            "request": "launch",
+            "mainClass": "aula10.atv1",
+            "projectName": "TecDeAlgoritmos_199e499e"
+        },
+        {
+            "type": "java",
+            "name": "Pesquisa01",
+            "request": "launch",
+            "mainClass": "aula9.Pesquisa01",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Pesquisa",
+            "request": "launch",
+            "mainClass": "aula9.Pesquisa",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "aula9.Matriz",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor1",
+            "request": "launch",
+            "mainClass": "aula9.Vetor1",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor01",
+            "request": "launch",
+            "mainClass": "aula9.Vetor01",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor",
+            "request": "launch",
+            "mainClass": "aula9.Vetor",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Vetor",
+            "request": "launch",
+            "mainClass": "Vetor",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "VetorEMatriz",
+            "request": "launch",
+            "mainClass": "VetorEMatriz",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Automovel",
+            "request": "launch",
+            "mainClass": "Automovel",
+            "projectName": "TecDeAlgoritmos_699debba"
+        },
+        {
+            "type": "java",
+            "name": "agencia",
+            "request": "launch",
+            "mainClass": "Atividade.agencia",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "adivinhe2",
+            "request": "launch",
+            "mainClass": "Atividade.adivinhe2",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "adivinhacao",
+            "request": "launch",
+            "mainClass": "Atividade.adivinhacao",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "atividade1",
+            "request": "launch",
+            "mainClass": "Atividade.atividade1",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "ProjetoScan",
+            "request": "launch",
+            "mainClass": "Scanner.ProjetoScan",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "Somando",
+            "request": "launch",
+            "mainClass": "Strings.Somando",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileExample",
+            "request": "launch",
+            "mainClass": "DoWhileExample",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "ForExample",
+            "request": "launch",
+            "mainClass": "ForExample",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "WhileExample",
+            "request": "launch",
+            "mainClass": "WhileExample",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExample",
+            "request": "launch",
+            "mainClass": "SwitchExample",
+            "projectName": "TecDeAlgoritmos-1_50ca6a53"
+        },
+        {
+            "type": "java",
+            "name": "EmpresaAtiv",
+            "request": "launch",
+            "mainClass": "EmpresaAtiv",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "empresa",
+            "request": "launch",
+            "mainClass": "empresa",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "idade2",
+            "request": "launch",
+            "mainClass": "idade2",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "projeto",
+            "request": "launch",
+            "mainClass": "projeto",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "umprograma",
+            "request": "launch",
+            "mainClass": "umprograma",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "idade",
+            "request": "launch",
+            "mainClass": "idade",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "ex02",
+            "projectName": "TecDeAlgoritmos-2_50ca6a54"
+        },
+        {
+            "type": "java",
+            "name": "ex01",
+            "request": "launch",
+            "mainClass": "ex01",
+            "projectName": "TecDeAlgoritmos-2_50ca6a54"
+        },
+        {
+            "type": "java",
+            "name": "votacao",
+            "request": "launch",
+            "mainClass": "votacao",
+            "projectName": "TecDeAlgoritmos-2_50ca6a54"
+        },
+        {
+            "type": "delegua",
+            "request": "launch",
+            "name": "Executar arquivo aberto",
+            "program": "${file}",
+            "stopOnEntry": false
+        }
+    ]
+}
