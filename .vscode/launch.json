@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "TesteSobrecarga",
+            "request": "launch",
+            "mainClass": "TesteSobrecarga",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "TesteSobrescrita",
+            "request": "launch",
+            "mainClass": "TesteSobrescrita",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
             "name": "atv5",
             "request": "launch",
             "mainClass": "aula10.atv5",
