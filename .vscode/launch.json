@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cavalo",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Cavalo",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio8",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Exercicio8",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Azulejo",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Azulejo",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Media",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Exercicio4",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Grupo",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Grupo",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Temperatura",
+            "request": "launch",
+            "mainClass": "aula13exercicios.Temperatura",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "TesteProduto",
+            "request": "launch",
+            "mainClass": "aula13exercicios.TesteProduto",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "TesteProduto",
+            "request": "launch",
+            "mainClass": "TesteProduto",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
+            "name": "Funcionarios",
+            "request": "launch",
+            "mainClass": "aula13.Funcionarios",
+            "projectName": "TecDeAlgoritmos_b429c46f"
+        },
+        {
+            "type": "java",
             "name": "Principal",
             "request": "launch",
             "mainClass": "Principal",

@@ -1,7 +1,7 @@
 package aula11;
 
 class Funcionario{
-    private String nome;
+    private final String nome;
     Funcionario(String nome){
         this.nome = nome;
     }
@@ -11,8 +11,8 @@ class Funcionario{
 }
 
 class Departamento {
-    private String nome;
-    private Funcionario funcionario;
+    private final String nome;
+    private final Funcionario funcionario;
     Departamento(String nome, Funcionario funcionario){
         this.nome = nome;
         this.funcionario = funcionario;

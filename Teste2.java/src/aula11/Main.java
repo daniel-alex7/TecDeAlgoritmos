@@ -31,8 +31,8 @@ class Carro{
 }
 
 class Motor{
-    private String tipo;
-    private int potencia;
+    private final String tipo;
+    public int potencia;
 
     public Motor(String tipo, int potencia){
         this.tipo = tipo;

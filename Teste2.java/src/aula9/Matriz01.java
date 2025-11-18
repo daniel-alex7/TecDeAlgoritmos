@@ -9,13 +9,11 @@ public class Matriz01{
         };
 
         System.out.println("Percorrendo matriz com for aninhado:");
-        // Loop for alinhado para percorrer a matriz 
-        for (int i = 0; i < matriz.length; i++) {
+        // Loop for alinhado para percorrer a matriz
+        for (int[] matriz1 : matriz) {
             // Loop percorre as colunas (j) da linha atual da matriz(i)
-            for (int j = 0; j < matriz[i].length; j++) {
-                
-                System.out.print(matriz[i][j] + " ");
-
+            for (int j = 0; j < matriz1.length; j++) {
+                System.out.print(matriz1[j] + " ");
             }
             System.out.println();
         }

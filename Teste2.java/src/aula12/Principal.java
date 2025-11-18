@@ -1,5 +1,5 @@
 class Animal {
-    private String nome;
+    private final String nome;
     private int idade;
 
     public Animal(String nome, int idade) {
@@ -22,10 +22,14 @@ class Animal {
     public int getIdade() {
         return idade;
     }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
 }
 
 class Cachorro extends Animal {
-    private boolean lateAlto;
+    private final boolean lateAlto;
 
     public Cachorro(String nome, int idade, boolean lateAlto) {
         super(nome, idade);
